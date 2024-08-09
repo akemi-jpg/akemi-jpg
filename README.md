@@ -1,16 +1,15 @@
-## Hi there 👋
+## hey there, how u doing? 💮
 
-<!--
-**akemi-jpg/akemi-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Akemi
+- im studying on Alura;
+- my pronouns is she/her
+- im 17!
+- im pretty excited to learn some JavaScript and i hope i can get better on it!
+- im a bg fan of Joji and i love his music
 
-Here are some ideas to get you started:
+  ### contact me 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  akemiaoki29@gmail.com
+  
+  @akwmixd
+! [](https://media1.tenor.com/m/rXWMgSSLtFsAAAAC/joji-joji-spinning.gif)
